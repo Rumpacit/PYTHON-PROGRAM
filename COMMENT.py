@@ -1,0 +1,2 @@
+
+print("cst"); #print something
